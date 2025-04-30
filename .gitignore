@@ -1,0 +1,17 @@
+# Ignore VS-CODE or GCC generated files
+*.exe
+*.o
+*.out
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore backups and temporary files
+*~
+*.bak
+*.tmp
+
+# Ignore logs and system files
+*.log
+.DS_Store
+Thumbs.db
