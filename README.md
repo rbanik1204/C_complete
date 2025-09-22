@@ -1,4 +1,4 @@
-# ⚡ C Programming Repository
+# ⚡ C Programming Repository(VS-CODE)
 
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
